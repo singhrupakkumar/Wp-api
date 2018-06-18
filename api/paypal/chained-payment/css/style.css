@@ -1,0 +1,280 @@
+/*----------------------------------------------
+css settings for HTML div exactCenter 
+------------------------------------------------*/
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+#main{
+    width:960px;
+    margin:50px auto;
+    font-family:raleway;
+}
+span{
+    color:red;
+}
+h2{
+    background-color: #FEFFED;
+    text-align:center;
+    border-radius: 10px 10px 0 0;
+    margin: -10px -40px;
+    padding: 15px;
+}
+hr{
+    border:0;
+    border-bottom: 1px solid #ccc;
+    margin: 10px -40px;
+    margin-bottom: 30px;
+}
+#conatiner{
+    width: 100%;
+    float: left;
+    border-radius: 10px;
+    font-family:raleway;
+    border: 2px solid #ccc;
+    padding: 10px 40px 31PX;
+    margin-top: 37px;
+    margin-left: -40px;
+}
+#first{
+    padding: 10px;
+    width: 530px;
+    height: 350px;
+    float: left;
+    box-shadow: rgb(153, 163, 173) 0px 5px 17px 1px, rgb(238, 238, 238) 0px 0px 40px;
+    border: 1px dashed rgb(195, 195, 195);
+}
+#first img{
+    width: 98%;
+    margin-top: 15px;
+    padding: 5px;
+    border: 1px solid rgba(200, 200, 200, 0.84);
+}
+#second{
+    width: 380px;    
+    height: 350px;    float: right;
+    padding: 10px;
+    /* border: 2px solid red; */
+    box-shadow: rgb(153, 163, 173) 0px 5px 17px 1px, rgb(238, 238, 238) 0px 0px 40px;
+    border: 1px dashed rgb(195, 195, 195);
+}
+.fg-button{
+    position: relative;
+    top: 0px;
+    border-radius: 4px;
+    font-size: 18px;
+    padding: 11px 28px;
+    text-decoration: none;
+    border: 0px solid;
+    cursor: pointer;
+    border-bottom-width: 3px;
+    outline: none;
+    -webkit-transition: 0.3s background;
+    -moz-transition: 0.3s background;
+    transition: 0.3s background;
+}
+
+.fg-button:active{
+    top: 2px;
+}
+
+
+.fg-button.teal{
+    color: #fff;
+    border-color: #04A5A1;
+    background-color: #08BBB7;
+}
+
+.fg-button.teal:hover{
+    background: #0ACFCB;
+}
+
+.fg-button.teal:active{
+    background: #09cbc7;
+    top: 2px;
+    border-bottom-width: 1px;
+} 
+.fg-button.yellow{
+    color: #fff;
+    border-color: #BD8C03;
+    background-color: #ffbc00;
+}
+.fg-button.yellow:hover{
+    background: #FFC92F;
+}
+
+.fg-button.yellow:active{
+    background: #FFBC00;
+    top: 2px;
+    border-bottom-width: 1px;
+} 
+#buynow{
+    width: 199px;
+    height: 60px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 88px;
+    /* border: 1px solid black; */
+}
+#preview{
+    width: 180px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+    float: left;
+    /* border: 1px solid black; */
+} 
+h4#author{
+    margin-left: 28px;
+}
+#second img{
+    margin-left: 20px;  
+}
+#second p{
+    float: right;
+    margin-top: 3px;
+    margin-right: 134px;
+}
+hr.type_1 {
+    border: 0;
+    height: 45px;
+    margin-left: 32px;
+    background-image: url(../images/hr.jpg);
+    background-repeat: no-repeat;
+}
+img#paypal_logo {
+    float: right;
+    margin-top: -35px;
+    margin-right: -45px;
+}
+
+#results {
+    width: 100%;
+    margin-top: 30px;
+    //border: 1px solid #ccc;
+    table-layout: auto;
+    margin-bottom: 30px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.head {
+    font-size: 15px;
+    font-family: "proxima_novasemibold", sans-serif;
+    background: #FEFFED;
+    color: #1d4c55;
+    border: 1px solid #ccc;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.head th{
+    //border-right: 1px solid #ccc;
+    //border-bottom: 1px solid #ccc;
+    line-height: normal;
+    padding: 10px 0px;
+    text-align: left;
+    padding-left: 3%;
+}
+td {
+    //border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    line-height: normal;
+    padding: 10px 0px;
+    text-align: left;
+    padding-left:3%;
+    vertical-align: top;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+#return {
+    width: 492px;
+    height: auto;
+    float: left;
+    border-radius: 10px;
+    font-family: raleway;
+    border: 2px solid #ccc;
+    padding: 10px 40px 30px;
+    margin-bottom: 50px;
+}
+#return h3#success {
+    text-align: center;
+    font-size: 24px;
+    color: green;
+    margin-bottom: 10px;
+}
+#return P {
+    text-align: left;
+}
+#return .back_btn {
+    margin-top: 30px;
+    text-align: center;
+}
+#btn {
+    width: 100%;
+    background-color: #FFBC00;
+    color: white;
+    border: 2px solid #FFCB00;
+    padding: 10px 70px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    margin: 0 auto;
+}
+a{
+    text-decoration:none;
+    color: #33BADB;
+}
+
+.success_main_heading{
+    margin-left: -40%;
+
+}
+#return h3#fail{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 50px;
+    color: red;
+    margin-bottom: 10px;
+}
+.red{
+    color:red;
+    font-weight: bold;
+}
+h2{
+    background-color: #FEFFED;
+    text-align:center;
+    border-radius: 10px 10px 0 0;
+    margin: -10px -40px;
+    padding: 15px;
+}
+#footer{
+    font-family:raleway;
+    width: 960px;
+    margin: 10px auto;
+}
+#content{
+    margin-left: 95px;
+    margin-top: 35px;
+}
+.cr{
+    clear: both;
+}
+#Note{
+    margin-left: -40px;
+}

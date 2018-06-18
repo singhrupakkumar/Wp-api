@@ -1,0 +1,252 @@
+Array
+(
+    [file] => Array
+        (
+            [name] => trim.2D964C06-2255-4ED7-8D88-9CA22EDA5C12.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/php2YaDzZ
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+vikkiiArray
+(
+    [getit] => uploadimgvdo
+    [user_id] => 289
+    [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/4E7995F9-B7B3-446A-80F9-7867CCA89B16/tmp/trim.2D964C06-2255-4ED7-8D88-9CA22EDA5C12.MOV
+)
+12354vikrant1Array
+(
+    [file] => Array
+        (
+            [name] => trim.2D964C06-2255-4ED7-8D88-9CA22EDA5C12.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/php2YaDzZ
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+Array
+(
+    [code] => 0
+    [data] => Array
+        (
+            [getit] => uploadimgvdo
+            [user_id] => 289
+            [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/4E7995F9-B7B3-446A-80F9-7867CCA89B16/tmp/trim.2D964C06-2255-4ED7-8D88-9CA22EDA5C12.MOV
+        )
+
+    [urlimgvdo] => https://aawesomeme.com/wp-content/uploads/rtMedia/users/289/2018/03/1522326414549323939.MOV
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => trim.D190193F-8FD5-4A5B-930C-74922F5AF9B3.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpCzLyZc
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+vikkiiArray
+(
+    [getit] => uploadimgvdo
+    [user_id] => 289
+    [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/60A7BE73-20AF-4C83-9105-C96115CC2412/tmp/trim.D190193F-8FD5-4A5B-930C-74922F5AF9B3.MOV
+)
+12355vikrant1Array
+(
+    [file] => Array
+        (
+            [name] => trim.D190193F-8FD5-4A5B-930C-74922F5AF9B3.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpCzLyZc
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+Array
+(
+    [code] => 0
+    [data] => Array
+        (
+            [getit] => uploadimgvdo
+            [user_id] => 289
+            [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/60A7BE73-20AF-4C83-9105-C96115CC2412/tmp/trim.D190193F-8FD5-4A5B-930C-74922F5AF9B3.MOV
+        )
+
+    [urlimgvdo] => https://aawesomeme.com/wp-content/uploads/rtMedia/users/289/2018/03/15223277791352316232.MOV
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => trim.7E71F72C-F827-4CD7-8960-774BA508EF88.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpweD2nl
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+vikkiiArray
+(
+    [getit] => uploadimgvdo
+    [user_id] => 289
+    [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/118A5422-632A-49CD-959C-77912C39CC13/tmp/trim.7E71F72C-F827-4CD7-8960-774BA508EF88.MOV
+)
+12356vikrant1Array
+(
+    [file] => Array
+        (
+            [name] => trim.7E71F72C-F827-4CD7-8960-774BA508EF88.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpweD2nl
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+Array
+(
+    [code] => 0
+    [data] => Array
+        (
+            [getit] => uploadimgvdo
+            [user_id] => 289
+            [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/118A5422-632A-49CD-959C-77912C39CC13/tmp/trim.7E71F72C-F827-4CD7-8960-774BA508EF88.MOV
+        )
+
+    [urlimgvdo] => https://aawesomeme.com/wp-content/uploads/rtMedia/users/289/2018/03/1522331915442937937.MOV
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => trim.74CB9583-C1E0-4D8C-85EC-6E7784A17673.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpbuOAhn
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+vikkiiArray
+(
+    [getit] => uploadimgvdo
+    [user_id] => 289
+    [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/9BDB4C7D-5FE7-432C-8D60-84DDFF8E0995/tmp/trim.74CB9583-C1E0-4D8C-85EC-6E7784A17673.MOV
+)
+12357vikrant1Array
+(
+    [file] => Array
+        (
+            [name] => trim.74CB9583-C1E0-4D8C-85EC-6E7784A17673.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpbuOAhn
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+Array
+(
+    [code] => 0
+    [data] => Array
+        (
+            [getit] => uploadimgvdo
+            [user_id] => 289
+            [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/9BDB4C7D-5FE7-432C-8D60-84DDFF8E0995/tmp/trim.74CB9583-C1E0-4D8C-85EC-6E7784A17673.MOV
+        )
+
+    [urlimgvdo] => https://aawesomeme.com/wp-content/uploads/rtMedia/users/289/2018/03/15223329411301273425.MOV
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => trim.7E25A2E9-3EAB-4EFB-9D3E-5493B57BF831.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpR8BeiV
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+vikkiiArray
+(
+    [getit] => uploadimgvdo
+    [user_id] => 289
+    [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/6A8E7648-9BBD-4579-9F28-45C857B107BE/tmp/trim.7E25A2E9-3EAB-4EFB-9D3E-5493B57BF831.MOV
+)
+12358vikrant1Array
+(
+    [file] => Array
+        (
+            [name] => trim.7E25A2E9-3EAB-4EFB-9D3E-5493B57BF831.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpR8BeiV
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+Array
+(
+    [code] => 0
+    [data] => Array
+        (
+            [getit] => uploadimgvdo
+            [user_id] => 289
+            [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/6A8E7648-9BBD-4579-9F28-45C857B107BE/tmp/trim.7E25A2E9-3EAB-4EFB-9D3E-5493B57BF831.MOV
+        )
+
+    [urlimgvdo] => https://aawesomeme.com/wp-content/uploads/rtMedia/users/289/2018/03/1522334302428927796.MOV
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => trim.520D57DA-82BC-4A63-B6BC-8368E7236FC1.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpi2BhO3
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+vikkiiArray
+(
+    [getit] => uploadimgvdo
+    [user_id] => 289
+    [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/54C270D8-65F5-4D04-88FC-5F575870FBA3/tmp/trim.520D57DA-82BC-4A63-B6BC-8368E7236FC1.MOV
+)
+12359vikrant1Array
+(
+    [file] => Array
+        (
+            [name] => trim.520D57DA-82BC-4A63-B6BC-8368E7236FC1.MOV
+            [type] => multipart/form-data
+            [tmp_name] => /tmp/phpi2BhO3
+            [error] => 0
+            [size] => 9767476
+        )
+
+)
+Array
+(
+    [code] => 0
+    [data] => Array
+        (
+            [getit] => uploadimgvdo
+            [user_id] => 289
+            [fileName] => file:///Users/futuremac1/Library/Developer/CoreSimulator/Devices/DB093125-A491-416E-BCF3-761C0C4C5EE4/data/Containers/Data/Application/54C270D8-65F5-4D04-88FC-5F575870FBA3/tmp/trim.520D57DA-82BC-4A63-B6BC-8368E7236FC1.MOV
+        )
+
+    [urlimgvdo] => https://aawesomeme.com/wp-content/uploads/rtMedia/users/289/2018/03/15223351922000319477.MOV
+)
